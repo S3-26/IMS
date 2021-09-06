@@ -1,1 +1,4 @@
 # IMS
+sales
+updation
+purchase
